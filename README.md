@@ -19,7 +19,7 @@
 > In this project is used conditionals, variables and sprites to create an interactive card
 # SideScrollerGame
 ### Code.org Gamelab
-[sideScrollerGame](https://studio.code.org/projects/gamelab/VzMHiArXZxb5WLRudXEM-pRVdeHsMQhgFnsN8g-zyzA)
+[SideScrollerGame](https://studio.code.org/projects/gamelab/VzMHiArXZxb5WLRudXEM-pRVdeHsMQhgFnsN8g-zyzA)
 > In this project I used sprites, variables, draw loops, and conditionals to make a sidescroller game
 # FlyerGame
 ### Code.org Gamelab
