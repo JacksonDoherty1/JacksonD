@@ -15,7 +15,7 @@
 > In this project I used shapes, variables, and randomness to express my creativity and created a Captioned Scene.
 # InteractiveCard
 ### Code.org Gamelab
-[Interactive Card] (https://studio.code.org/projects/gamelab/t1TDsCKEcb4HomNSVufx50WqYhiwuPdfz_mvHtOdVUw/edit)
+[Interactive Card](https://studio.code.org/projects/gamelab/t1TDsCKEcb4HomNSVufx50WqYhiwuPdfz_mvHtOdVUw/edit)
 > In this project is used conditionals, variables and sprites to create an interactive card
 # SideScrollerGame
 ### Code.org Gamelab
