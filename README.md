@@ -37,3 +37,7 @@
 ### MitAppInventor
 [PianoApp](https://ai2.appinventor.mit.edu/#4761341736648704)
 > In this project I used buttons, media, recordings, and players to make an app that can record and play sounds you make on a piano
+# MusicMakerApp
+### MitAppInventor
+[MusicMaker](https://ai2.appinventor.mit.edu/#4931963875885056)
+> In this project I used buttons, media, recordings, and players to make an app the can play and record different musical instruments simluatenously
