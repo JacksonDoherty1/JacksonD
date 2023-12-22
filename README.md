@@ -32,7 +32,7 @@
 # DesignAGame 
 ### Code.org Gamelab
 [DesignAGame](https://studio.code.org/projects/gamelab/Mi60u1953SywfO8q2CSZz1JcbvwJsrZk4mPQ0_veRks)
-> In this porject I used variables, funtions, and sprites to design my own side scoller game
+> In this project I used variables, funtions, and sprites to design my own side scoller game
 # PianoApp
 ### MitAppInventor
 [PianoApp](https://ai2.appinventor.mit.edu/#4761341736648704)
