@@ -2,7 +2,7 @@
 # JacksonD
 -👋 Hi, I’m @JacksonDoherty1
 - 👀 I’m am a STEM student at Walpole High School
-- :octocat: I’m currently learning, chemistry, geometry & Intro to Programming
+- :octocat: I’m currently learning chemistry, geometry, and Intro to Programming
 - :information_desk_person: I’m looking to collaborate with other students & educators
 - 📫 How to reach me ... dohertyj26@wpsma.org
 # RobotFace
