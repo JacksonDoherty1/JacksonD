@@ -41,3 +41,7 @@
 ### MitAppInventor
 [MusicMaker](https://ai2.appinventor.mit.edu/#4931963875885056)
 > In this project I used buttons, media, recordings, and players to make an app the can play and record different musical instruments simultaneously
+# FindTheGoldApp
+### MitAppInventor
+[FindTheGoldApp](https://ai2.appinventor.mit.edu/#5497223498301440)
+> In this project I used buttons, screen orientation, and colliders to make an app that challenges you to orientate the screen to get the ball through the maze and to the gold
