@@ -28,8 +28,12 @@
 # PlatformGame
 ### Code.org Gamelab
 [PlatformGame](https://studio.code.org/projects/gamelab/-o4QIKjB87QECGWPnviYyx4F-JCpRMrOVWK50oNZOgc)
-> In this project Me and my partner used variables sprites and boolean expressions to make a platformign game
+> In this project I used variables sprites and boolean expressions to make a platformign game
 # DesignAGame 
 ### Code.org Gamelab
 [DesignAGame](https://studio.code.org/projects/gamelab/Mi60u1953SywfO8q2CSZz1JcbvwJsrZk4mPQ0_veRks)
 > In this porject I used variables, funtions, and sprites to design my own side scoller game
+# PianoApp
+### MitAppInventor
+[PianoApp](https://ai2.appinventor.mit.edu/#4761341736648704)
+> In this project I used buttons, media, recordings, and players to make an app that can record and play sounds you make on a piano
