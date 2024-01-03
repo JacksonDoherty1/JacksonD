@@ -45,3 +45,7 @@
 ### MitAppInventor
 [FindTheGoldApp](https://ai2.appinventor.mit.edu/#5497223498301440)
 > In this project I used buttons, screen orientation, and colliders to make an app that challenges you to orientate the screen to get the ball through the maze and to the gold
+# FoodChaseApp
+### MitAppInventor
+[MitAppInventor](https://gallery.appinventor.mit.edu/?galleryid=51687273-fd3d-4ec7-92e4-58e1434a1c52)
+> In this project I used notifiers, players and storage to make an app that challenges the player to fling the blue ball, avoid the green ball, and score points by collecting food
