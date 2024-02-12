@@ -49,3 +49,7 @@
 ### MitAppInventor
 [MitAppInventor](https://gallery.appinventor.mit.edu/?galleryid=51687273-fd3d-4ec7-92e4-58e1434a1c52)
 > In this project I used notifiers, players and storage to make an app that challenges the player to fling the blue ball, avoid the green ball, and score points by collecting food
+# CMUCreativeTask
+### CMUAcademy
+[CMUAcademy](https://academy.cs.cmu.edu/exercise/4134/)
+> In this creative task I uitlized opacity, labels, polygons, rectangle, circles, lines, and ovals.
