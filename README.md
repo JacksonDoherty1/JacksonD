@@ -53,3 +53,7 @@
 ### CMUAcademy
 [CMUAcademy](https://academy.cs.cmu.edu/exercise/4134/)
 > In this creative task I uitlized opacity, labels, polygons, rectangle, circles, lines, and ovals.
+# CMUCreativeTask
+### CMUAcademy
+[CMUAcademy](https://academy.cs.cmu.edu/exercise/4190/)
+> In this collaborative creative task my partner and I created a scene using functions, value, mouse clicks and angle rotation on CMU academy
