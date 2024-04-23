@@ -57,3 +57,12 @@
 ### CMUAcademy
 [CMUAcademy](https://academy.cs.cmu.edu/exercise/4190/)
 > In this collaborative creative task my partner and I created a scene using functions, value, mouse clicks and angle rotation on CMU academy
+# CMUCreativeTask_3
+### CMUAcademy
+[CMUAcademy](https://academy.cs.cmu.edu/exercise/4236/)
+> In this collaborative creative task my partner and I created a scene using functions, value, mouse movement and if statements on CMU academy
+# CMUCreativeTask_4
+### CMUAcademy
+[CMUAcademy](https://academy.cs.cmu.edu/exercise/4282/)
+ In this collaborative creative task my partner and I created a scene using functions, value, mouse movement and if statements on CMU academy in order to make a functioning typewriter
+
