@@ -64,5 +64,9 @@
 # CMUCreativeTask_4
 ### CMUAcademy
 [CMUAcademy](https://academy.cs.cmu.edu/exercise/4282/)
- In this collaborative creative task my partner and I created a scene using functions, value, mouse movement and if statements on CMU academy in order to make a functioning typewriter
+> In this collaborative creative task my partner and I created a scene using functions, value, mouse movement and if statements on CMU academy in order to make a functioning typewriter
+# CMUCreativeTask_5
+### CMUAcademy
+[CMUAcademy](https://academy.cs.cmu.edu/exercise/4314/)
+> In this collaborative creative task my partner and I created a scene using complex conditionals, on key holds, and definitions to make a working moving car scene
 
